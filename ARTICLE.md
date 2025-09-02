@@ -6,3 +6,8 @@ The centralized workflow is the most basic way of using Git. Everyone pushes dir
 # Part 2: Branch Workflow
 
 The branch workflow is more advanced and widely used in real projects. Instead of pushing directly to the main branch, developers create a separate branch for each feature or bug fix. Work happens in isolation on the branch, and when the changes are complete, a pull request is opened to merge it back into the main branch. This keeps the main branch stable and makes it easier to review and test changes before integration.
+
+
+# Part 3: Fork Workflow
+
+The fork workflow is commonly used in open-source projects. Each contributor creates a personal copy (fork) of the original repository under their own account. They make changes in their fork and then submit a pull request to the original repository. This method allows people to contribute without needing direct write access to the main project, which keeps the original repository safe while still enabling collaboration. It is especially useful when working with large communities of developers.
