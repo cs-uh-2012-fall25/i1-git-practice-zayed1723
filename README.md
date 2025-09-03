@@ -2,6 +2,7 @@
 # Git Practice
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
-Student: Zayed AlameriExtra line for testing branch workflow
+Student: Zayed Alameri
+
 
 PR contributed: https://github.com/cs-uh-2012-fall25/i1-git-practice-mohdalkhatib/pull/4
