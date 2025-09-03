@@ -1,3 +1,9 @@
+## Interesting Article  
+I found this article about [Git branching strategies](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) very useful.  
+It explains how different branching models work in real-world projects, which connects well with what we are practicing in this assignment.  
+I like how it shows when to use feature branches vs. hotfix branches, making it practical for team collaboration.  
+
+
 # Part 1: Centralized Workflow
 
 The centralized workflow is the simplest way to use Git. Everyone pushes directly to the same main branch in one central repository. It is easy to set up, but it can lead to conflicts when multiple people edit the same file at the same time. It works best for small projects.
